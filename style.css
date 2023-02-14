@@ -21,12 +21,18 @@
 }
 
 .fixed {
+    position: fixed;
+    top: 20%;
+    left: 40%;
     background-color: #ffeb00;
     color: black;
 }
 
 .sticky {
+    position: sticky;
     background-color: #ff9ecf;
+    top: 10px;
+    left: 39px;
 }
 
 .relative {
